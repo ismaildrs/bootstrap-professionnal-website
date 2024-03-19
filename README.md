@@ -13,7 +13,7 @@ This repository contains the code for my school project where I created a websit
 ![Screenshot 4](screenshots/screenshot4.png)
 *Contact section*
 ![Screenshot 5](screenshots/screenshot5.png)
-*The page for tablets"
+*The page for tablets*
 
 ## Features
 
