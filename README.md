@@ -4,13 +4,13 @@ This repository contains the code for my school project where I created a websit
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Carousel section*
-![Screenshot 2](screenshots/screenshot2.png)
-*Services section*
-![Screenshot 3](screenshots/screenshot3.png)
-*Group section*
 ![Screenshot 4](screenshots/screenshot4.png)
+*Carousel section*
+![Screenshot 3](screenshots/screenshot3.png)
+*Services section*
+![Screenshot 2](screenshots/screenshot2.png)
+*Group section*
+![Screenshot 1](screenshots/screenshot1.png)
 *Contact section*
 ![Screenshot 5](screenshots/screenshot5.png)
 *The page for tablets*
